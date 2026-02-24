@@ -1,4 +1,4 @@
-### Hi there, I'm Aravind R 👋
+### Hi there, I'm Aravind R 
 
 <p align="left">
   <a href="mailto:aravindgd45@gmail.com">aravindgd45@gmail.com</a> | +91-9342423726 | Chennai, India
@@ -6,13 +6,13 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a B.Tech student in Artificial Intelligence & Data Science with a passion for Software Development and AI applications. I enjoy solving problems and building projects that can make a difference. As a quick learner and team player, I'm always excited to learn new technologies and contribute to innovative solutions.
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://aravindr-portfolio.vercel.app/" target="_blank">
@@ -28,7 +28,7 @@ I am a B.Tech student in Artificial Intelligence & Data Science with a passion f
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 -   **Programming Languages:** C, Python, Java, SQL, JavaScript
 -   **Web Technologies:** HTML, CSS, Flask
@@ -44,7 +44,7 @@ I am a B.Tech student in Artificial Intelligence & Data Science with a passion f
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 **1. AI Resume Analyzer Web App (Streamlit)**
 -   Built a Streamlit-based web app to parse resumes, extract details, and match them with job descriptions.
@@ -64,7 +64,7 @@ I am a B.Tech student in Artificial Intelligence & Data Science with a passion f
 
 ---
 
-### 🎓 Education
+###  Education
 
 -   **Saveetha College of Engineering, Chennai**
     -   B.Tech/B.E., Artificial Intelligence & Data Science
@@ -72,13 +72,27 @@ I am a B.Tech student in Artificial Intelligence & Data Science with a passion f
 
 ---
 
-### 📜 Certifications
+#  Certifications & Learning Portfolio
 
--   Applied AI Learning
--   MS AI Learning
--   MS Azure Learning
--   Java Beginners (IBM)
--   PyTorch Ultimate
--   Software Engineering (IBM)
--   NPTEL
--   Scalar
+##  Artificial Intelligence & Machine Learning
+- Applied AI Learning
+- MS AI Learning
+- LEARN AI AND GEN BASIC
+- PyTorch Ultimate
+
+##  Cloud Computing
+- MS Azure Learning
+
+##  Programming & Software Development
+- Java Beginners (IBM)
+- Software Engineering (IBM)
+- Oracle SQL
+
+##  Professional Experience & Programs
+- JPMorgan Chase – Software Engineering
+- INTERNSHIP
+- INPLANT
+- Hack2skill Certificate
+
+##  Academic Certification
+- NPTEL
