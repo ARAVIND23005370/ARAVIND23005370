@@ -1,98 +1,245 @@
-### Hi there, I'm Aravind R 
+<div align="center">
+<img src="./header.svg" width="100%" alt="Aravind R - Full Stack Developer"/>
+type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aravind%20R&fontSize=70&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=22&animation=twinkling" width="100%"/>
 
-<p align="left">
-  <a href="mailto:aravindgd45@gmail.com">aravindgd45@gmail.com</a> | +91-9342423726 | Chennai, India
-</p>
+<a href="https://aravindr-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aravind-r-16b1b4313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ARAVIND23005370"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Aravind_R4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:aravind.rameshrd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
+<br/><br/>
 
-###  About Me
+![Profile Views](https://komarev.com/ghpvc/?username=ARAVIND23005370&label=Profile+Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/ARAVIND23005370?label=Followers&style=social)
 
-I am a B.Tech student in Artificial Intelligence & Data Science with a passion for Software Development and AI applications. I enjoy solving problems and building projects that can make a difference. As a quick learner and team player, I'm always excited to learn new technologies and contribute to innovative solutions.
-
----
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://aravindr-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aravind-r-16b1b4313/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Aravind_R4/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-</p>
+</div>
 
 ---
 
-###  Technical Skills
+## 🧠 Who Am I?
 
--   **Programming Languages:** C, Python, Java, SQL, JavaScript
--   **Web Technologies:** HTML, CSS, Flask
--   **Tools & Platforms:** Power BI, Hadoop, Streamlit, Git
--   **Core Knowledge:** SDLC, Data Visualization, Resume Parsing, Offline Speech Recognition, Frontend Development
+I'm a **pre-final year B.Tech student in AI & Data Science** who builds things that actually work in production — not just in tutorials.
 
----
+Right now I'm focused on **Java + Spring Boot backends** with **React.js frontends**, building systems that are secured with JWT, containerized with Docker, and designed to scale. I've shipped real features at an internship, built microservices that process 200+ document types, and I'm just getting started.
 
-### 📊 My GitHub Stats
+I don't just write code. I think about **architecture, security, and maintainability** from the start.
 
-![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARAVIND23005370&show_icons=true&theme=radical&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVIND23005370&layout=compact&theme=radical&hide_border=true)](https://github.com/ARAVIND23005370)
-
----
-
-###  Projects
-
-**1. AI Resume Analyzer Web App (Streamlit)**
--   Built a Streamlit-based web app to parse resumes, extract details, and match them with job descriptions.
--   **Skills:** Python, Streamlit, Resume Parsing, Keyword Matching
-
-**2. Sales Dashboard using Power BI**
--   Developed an interactive dashboard visualizing total sales, regional performance, and product-wise revenue.
--   **Skills:** Power BI, DAX, Excel, Data Visualization
-
-**3. Offline Voice-Controlled Bionic Dog (WAVEGO)**
--   Created a robotic dog using ESP32 and Vosk for offline speech recognition, controlling movements with commands like forward, left, and stop.
--   **Skills:** Python, Vosk, ESP32, Servo Motor Control
-
-**4. Frontend Interface for Voice-Controlled Robots**
--   Designed a stylish web interface with a mic button, live transcription, and command display for robotic control.
--   **Skills:** Flask, HTML, CSS, JavaScript
+```java
+public class Aravind {
+    String role       = "Full Stack Developer (Java · Spring Boot · React.js)";
+    String studying   = "B.Tech AI & Data Science @ Saveetha Engineering College";
+    String working_on = "Microservices + AI-powered automation systems";
+    String looking_for = "Full-stack / backend internships & remote opportunities";
+    String location   = "Chennai, India 📍";
+}
+```
 
 ---
 
-###  Education
+## 💼 Experience
 
--   **Saveetha College of Engineering, Chennai**
-    -   B.Tech/B.E., Artificial Intelligence & Data Science
-    -   Expected Graduation: 2027
+### 🏢 Full Stack Developer Intern — **ApproTech** *(Jul 2025)*
+
+> Real work. Real impact. Real deadlines.
+
+| What I Did | Impact |
+|---|---|
+| Built 5+ RESTful API endpoints in Java & Spring Boot | ↓ 30% backend response time via query optimization |
+| Developed 3 reusable React.js components with Hooks + Axios | Seamless end-to-end data flow |
+| Engineered 2 normalized MySQL schemas | Efficient cross-layer data retrieval |
+| Implemented Spring Security + JWT auth | Zero unauthorized access in test environment |
+| Tested 10+ endpoints end-to-end via Postman | Documented all request/response contracts |
+| Participated in 2-week Agile sprint cycles | Consistent on-time feature delivery |
 
 ---
 
-#  Certifications & Learning Portfolio
+## 🚀 Projects
 
-##  Artificial Intelligence & Machine Learning
-- Applied AI Learning
-- MS AI Learning
-- LEARN AI AND GEN BASIC
-- PyTorch Ultimate
+> Sorted by complexity. Each one has real architecture decisions, not just CRUD.
 
-##  Cloud Computing
-- MS Azure Learning
+---
 
-##  Programming & Software Development
-- Java Beginners (IBM)
-- Software Engineering (IBM)
+### 🧠 Autonomous Policy-Driven Decision Intelligence Platform
+> *Solo full-stack project built end-to-end*
+
+**Stack:** `Java` `Spring Boot` `React.js` `React Hooks` `Spring Security` `JWT` `MySQL` `Docker`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ARAVIND23005370)
+
+**What it does:** A platform where users submit policy requests and a rule engine automatically approves or rejects them with confidence scores — removing the need for manual review.
+
+**How I built it:**
+- React.js dashboard with 5+ reusable components and real-time decision visualization
+- Priority-based rule engine with 10+ configurable business rules → **60% reduction** in manual review effort
+- Domain-agnostic microservices with 8+ REST endpoints, clean separation of decision logic and data layers (UML + class diagrams)
+- JWT-secured all APIs + full audit trail with confidence scoring
+- Containerized with **Docker** for consistent dev → production deployments
+
+---
+
+### 📄 Document Intelligence & Decision Automation System
+
+**Stack:** `Java` `Spring Boot` `REST APIs` `MySQL` `OCR` `Maven` `JUnit`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ARAVIND23005370)
+
+**What it does:** A backend system that ingests documents, extracts structured data via OCR, and automatically routes decisions — zero manual reading required.
+
+**The numbers:**
+- Handles **200+ document types** automatically
+- 6+ threshold-based evaluation rules → **~50% faster** than manual workflows
+- **80%+ code reusability** across invoice, HR, legal, and contract workflows
+- 4 modular microservices with clean API contracts: doc management · OCR · rule eval · routing
+
+---
+
+### 🤖 AI Resume Analyzer Web App
+
+**Stack:** `Python` `NLP` `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ARAVIND23005370)
+
+**What it does:** Parses resumes with NLP, extracts skills + keywords, and scores candidate-job compatibility.
+
+- Validated across **50+ test resumes** with accurate compatibility scoring
+- Automated keyword and structure analysis → **~40% less** manual screening effort
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**⚙️ Core**
+- Java (primary language)
+- Spring Boot
+- React.js + React Hooks
+- JavaScript (ES6+)
+- REST APIs (JSON/HTTP)
+- MySQL
+
+</td>
+<td valign="top" width="33%">
+
+**🔧 Backend**
+- Spring Security
+- JWT / OAuth 2.0
+- JPA + Hibernate
+- Lombok
+- Swagger / OpenAPI
+- Microservices Architecture
+
+</td>
+<td valign="top" width="33%">
+
+**🎨 Frontend**
+- React.js Component Architecture
+- Context API
+- Axios / Fetch API
+- HTML5 + CSS3
+- Responsive UI Design
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🗄️ Databases**
+- MySQL
+- Microsoft SQL Server
 - Oracle SQL
+- H2 (testing)
 
-##  Professional Experience & Programs
-- JPMorgan Chase – Software Engineering
-- INTERNSHIP
-- INPLANT
-- Hack2skill Certificate
+</td>
+<td valign="top">
 
-##  Academic Certification
-- NPTEL
+**☁️ DevOps & Cloud**
+- Docker
+- Microsoft Azure
+- Git + GitHub
+- Maven
+
+</td>
+<td valign="top">
+
+**🧪 Testing & Tools**
+- Postman (API testing)
+- JUnit (unit testing)
+- IntelliJ IDEA
+- VS Code
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARAVIND23005370&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Aravind's+GitHub+Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVIND23005370&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top+Languages"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ARAVIND23005370&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Aravind's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARAVIND23005370&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Type |
+|---|---|---|
+| Oracle SQL Certified Specialist | Oracle | Technical |
+| NPTEL – Internet of Things | NPTEL | Elite Grade |
+| PyTorch Ultimate | Coursera | ML/AI |
+| Azure Learning Challenge | Microsoft | Cloud |
+| Software Engineering Virtual Experience | JPMorgan Chase (Forage) | Professional |
+| Software Engineering Fundamentals | IBM | Professional |
+| Google Gen AI Exchange Hackathon | Google Cloud × Hack2Skill | Achievement |
+
+---
+
+## 🎯 Currently
+
+- 🔨 Building more production-grade full stack projects for portfolio
+- 📖 Deepening knowledge of **System Design** and **Cloud Architecture**
+- 🔍 Open to **internship opportunities** — full stack / backend roles
+- 📬 **Best way to reach me:** [aravind.rameshrd@gmail.com](mailto:aravind.rameshrd@gmail.com)
+
+---
+
+## 🤝 Let's Connect
+
+If you're a recruiter, developer, or someone building something interesting — I'm always open to a conversation.
+
+> *"I write code that I'd be comfortable maintaining six months later."*
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aravind-r-16b1b4313/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:aravind.rameshrd@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://aravindr-portfolio.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
