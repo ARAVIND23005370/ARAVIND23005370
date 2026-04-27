@@ -1,0 +1,121 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0f2027"/>
+      <stop offset="50%"  stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#43e97b"/>
+      <stop offset="100%" stop-color="#38f9d7"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="60%"  stop-color="#e0f7fa"/>
+      <stop offset="100%" stop-color="#43e97b"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Wave path clipping -->
+    <clipPath id="wave-clip">
+      <rect width="900" height="200"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Bottom wave -->
+  <path d="M0,160 C150,200 300,130 450,160 C600,190 750,130 900,155 L900,200 L0,200 Z"
+        fill="#0d1117" opacity="0.6"/>
+
+  <!-- Decorative dots grid (top right) -->
+  <g opacity="0.15" fill="#43e97b">
+    <circle cx="820" cy="20" r="2"/><circle cx="840" cy="20" r="2"/><circle cx="860" cy="20" r="2"/><circle cx="880" cy="20" r="2"/>
+    <circle cx="820" cy="40" r="2"/><circle cx="840" cy="40" r="2"/><circle cx="860" cy="40" r="2"/><circle cx="880" cy="40" r="2"/>
+    <circle cx="820" cy="60" r="2"/><circle cx="840" cy="60" r="2"/><circle cx="860" cy="60" r="2"/><circle cx="880" cy="60" r="2"/>
+    <circle cx="820" cy="80" r="2"/><circle cx="840" cy="80" r="2"/><circle cx="860" cy="80" r="2"/><circle cx="880" cy="80" r="2"/>
+  </g>
+
+  <!-- Decorative dots grid (bottom left) -->
+  <g opacity="0.15" fill="#38f9d7">
+    <circle cx="20"  cy="120" r="2"/><circle cx="40"  cy="120" r="2"/><circle cx="60"  cy="120" r="2"/><circle cx="80" cy="120" r="2"/>
+    <circle cx="20"  cy="140" r="2"/><circle cx="40"  cy="140" r="2"/><circle cx="60"  cy="140" r="2"/><circle cx="80" cy="140" r="2"/>
+    <circle cx="20"  cy="160" r="2"/><circle cx="40"  cy="160" r="2"/><circle cx="60"  cy="160" r="2"/><circle cx="80" cy="160" r="2"/>
+  </g>
+
+  <!-- Left accent bar -->
+  <rect x="44" y="52" width="5" height="72" rx="3" fill="url(#accent)" filter="url(#glow)"/>
+
+  <!-- Code bracket decoration -->
+  <text x="22" y="88" font-family="'Courier New', monospace" font-size="52"
+        fill="#43e97b" opacity="0.18" font-weight="bold">&lt;/&gt;</text>
+
+  <!-- Main name text -->
+  <text x="70" y="100"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="58" font-weight="800" letter-spacing="-1"
+        fill="url(#nameGrad)" filter="url(#glow)">
+    Aravind R
+  </text>
+
+  <!-- Subtitle -->
+  <text x="72" y="135"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="18" font-weight="400" letter-spacing="2.5"
+        fill="#a8d8ea" opacity="0.95">
+    FULL STACK DEVELOPER  ·  AI &amp; DATA SCIENCE
+  </text>
+
+  <!-- Accent underline beneath name -->
+  <rect x="70" y="108" width="320" height="3" rx="2" fill="url(#accent)" opacity="0.7"/>
+
+  <!-- Tag pills on right -->
+  <!-- Java pill -->
+  <rect x="600" y="48" width="80" height="26" rx="13" fill="#ED8B00" opacity="0.85"/>
+  <text x="640" y="65" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700"
+        fill="#fff">Java</text>
+
+  <!-- Spring Boot pill -->
+  <rect x="690" y="48" width="110" height="26" rx="13" fill="#6DB33F" opacity="0.85"/>
+  <text x="745" y="65" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700"
+        fill="#fff">Spring Boot</text>
+
+  <!-- React pill -->
+  <rect x="610" y="84" width="80" height="26" rx="13" fill="#20232A" opacity="0.95"/>
+  <text x="650" y="101" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700"
+        fill="#61DAFB">React.js</text>
+
+  <!-- Docker pill -->
+  <rect x="700" y="84" width="80" height="26" rx="13" fill="#2496ED" opacity="0.85"/>
+  <text x="740" y="101" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700"
+        fill="#fff">Docker</text>
+
+  <!-- MySQL pill -->
+  <rect x="620" y="120" width="75" height="26" rx="13" fill="#4479A1" opacity="0.85"/>
+  <text x="657" y="137" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700"
+        fill="#fff">MySQL</text>
+
+  <!-- Azure pill -->
+  <rect x="705" y="120" width="80" height="26" rx="13" fill="#0078D4" opacity="0.85"/>
+  <text x="745" y="137" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700"
+        fill="#fff">Azure</text>
+
+  <!-- Location text -->
+  <text x="72" y="168"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="13" fill="#43e97b" opacity="0.8">
+    📍 Chennai, India  ·  Open to Internships &amp; Remote Roles
+  </text>
+</svg>
