@@ -19,7 +19,7 @@ type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&tex
 
 ##  Who Am I?
 
-I'm a **Step to Final year B.Tech student in AI & Data Science** who builds things that actually work in production — not just in tutorials.
+I'm a **B.Tech graduate in AI & Data Science** who builds things that actually work in production — not just in tutorials.
 
 Right now I'm focused on **Java + Spring Boot backends** with **React.js frontends**, building systems that are secured with JWT, containerized with Docker, and designed to scale. I've shipped real features at an internship, built microservices that process 200+ document types, and I'm just getting started.
 
@@ -30,7 +30,7 @@ public class Aravind {
     String role       = "Full Stack Developer (Java · Spring Boot · React.js)";
     String studying   = "B.Tech AI & Data Science @ Saveetha Engineering College";
     String working_on = "Production-grade full stack systems with cloud deployment";
-    String looking_for = "Full-stack / backend internships & remote opportunities";
+    String looking_for = "Full-time Full Stack / Backend Developer roles";
     String location   = "Chennai, India ";
 }
 ```
@@ -217,10 +217,10 @@ public class Aravind {
 
 ##  Currently
 
-- 🔨 Building more production-grade full stack projects for portfolio
-- 📖 Deepening knowledge of **System Design** and **Cloud Architecture**
-- 🔍 Open to **internship opportunities** — full stack / backend roles
-- 📬 **Best way to reach me:** [aravind.rameshrd@gmail.com](mailto:aravind.rameshrd@gmail.com)
+-  Building more production-grade full stack projects for portfolio
+-  Deepening knowledge of **System Design** and **Cloud Architecture**
+-  Open to full-time Associate Engineer / Full Stack Developer roles
+-  **Best way to reach me:** [aravind.rameshrd@gmail.com](mailto:aravind.rameshrd@gmail.com)
 
 ---
 
