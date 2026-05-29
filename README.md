@@ -17,9 +17,9 @@ type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&tex
 
 ---
 
-## 🧠 Who Am I?
+##  Who Am I?
 
-I'm a **pre-final year B.Tech student in AI & Data Science** who builds things that actually work in production — not just in tutorials.
+I'm a **Step to Final year B.Tech student in AI & Data Science** who builds things that actually work in production — not just in tutorials.
 
 Right now I'm focused on **Java + Spring Boot backends** with **React.js frontends**, building systems that are secured with JWT, containerized with Docker, and designed to scale. I've shipped real features at an internship, built microservices that process 200+ document types, and I'm just getting started.
 
@@ -29,17 +29,17 @@ I don't just write code. I think about **architecture, security, and maintainabi
 public class Aravind {
     String role       = "Full Stack Developer (Java · Spring Boot · React.js)";
     String studying   = "B.Tech AI & Data Science @ Saveetha Engineering College";
-    String working_on = "Microservices + AI-powered automation systems";
+    String working_on = "Production-grade full stack systems with cloud deployment";
     String looking_for = "Full-stack / backend internships & remote opportunities";
-    String location   = "Chennai, India 📍";
+    String location   = "Chennai, India ";
 }
 ```
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🏢 Full Stack Developer Intern — **ApproTech** *(Jul 2025)*
+###  Full Stack Developer Intern — **ApproTech** *(Jul 2025)*
 
 > Real work. Real impact. Real deadlines.
 
@@ -54,13 +54,13 @@ public class Aravind {
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 > Sorted by complexity. Each one has real architecture decisions, not just CRUD.
 
 ---
 
-### 🧠 Autonomous Policy-Driven Decision Intelligence Platform
+###  Autonomous Policy-Driven Decision Intelligence Platform
 > *Solo full-stack project built end-to-end*
 
 **Stack:** `Java` `Spring Boot` `React.js` `React Hooks` `Spring Security` `JWT` `MySQL` `Docker`
@@ -78,7 +78,7 @@ public class Aravind {
 
 ---
 
-### 📄 Document Intelligence & Decision Automation System
+###  Document Intelligence & Decision Automation System
 
 **Stack:** `Java` `Spring Boot` `REST APIs` `MySQL` `OCR` `Maven` `JUnit`
 
@@ -94,7 +94,7 @@ public class Aravind {
 
 ---
 
-### 🤖 AI Resume Analyzer Web App
+###  AI Resume Analyzer Web App
 
 **Stack:** `Python` `NLP` `Streamlit`
 
@@ -107,13 +107,13 @@ public class Aravind {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**⚙️ Core**
+** Core**
 - Java (primary language)
 - Spring Boot
 - React.js + React Hooks
@@ -124,7 +124,7 @@ public class Aravind {
 </td>
 <td valign="top" width="33%">
 
-**🔧 Backend**
+** Backend**
 - Spring Security
 - JWT / OAuth 2.0
 - JPA + Hibernate
@@ -135,7 +135,7 @@ public class Aravind {
 </td>
 <td valign="top" width="33%">
 
-**🎨 Frontend**
+** Frontend**
 - React.js Component Architecture
 - Context API
 - Axios / Fetch API
@@ -147,7 +147,7 @@ public class Aravind {
 <tr>
 <td valign="top">
 
-**🗄️ Databases**
+** Databases**
 - MySQL
 - Microsoft SQL Server
 - Oracle SQL
@@ -156,16 +156,17 @@ public class Aravind {
 </td>
 <td valign="top">
 
-**☁️ DevOps & Cloud**
+** DevOps & Cloud**
 - Docker
 - Microsoft Azure
+- AWS (EC2,S3,RDS basic)
 - Git + GitHub
 - Maven
 
 </td>
 <td valign="top">
 
-**🧪 Testing & Tools**
+** Testing & Tools**
 - Postman (API testing)
 - JUnit (unit testing)
 - IntelliJ IDEA
@@ -176,8 +177,7 @@ public class Aravind {
 </table>
 
 ---
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -201,7 +201,7 @@ public class Aravind {
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 | Certification | Issuer | Type |
 |---|---|---|
@@ -215,7 +215,7 @@ public class Aravind {
 
 ---
 
-## 🎯 Currently
+##  Currently
 
 - 🔨 Building more production-grade full stack projects for portfolio
 - 📖 Deepening knowledge of **System Design** and **Cloud Architecture**
@@ -224,7 +224,7 @@ public class Aravind {
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 If you're a recruiter, developer, or someone building something interesting — I'm always open to a conversation.
 
