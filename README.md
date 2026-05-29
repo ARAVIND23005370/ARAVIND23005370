@@ -1,6 +1,5 @@
 <div align="center">
 <img src="./header.svg" width="100%" alt="Aravind R - Full Stack Developer"/>
-type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aravind%20R&fontSize=70&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=22&animation=twinkling" width="100%"/>
 
 <a href="https://aravindr-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aravind-r-16b1b4313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,7 +18,7 @@ type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&tex
 
 ##  Who Am I?
 
-I'm a **B.Tech graduate in AI & Data Science** who builds things that actually work in production — not just in tutorials.
+I'm pursuing **B.Tech in Artificial Intelligence & Data Science** who builds things that actually work in production — not just in tutorials.
 
 Right now I'm focused on **Java + Spring Boot backends** with **React.js frontends**, building systems that are secured with JWT, containerized with Docker, and designed to scale. I've shipped real features at an internship, built microservices that process 200+ document types, and I'm just getting started.
 
@@ -60,29 +59,11 @@ public class Aravind {
 
 ---
 
-###  Autonomous Policy-Driven Decision Intelligence Platform
-> *Solo full-stack project built end-to-end*
-
-**Stack:** `Java` `Spring Boot` `React.js` `React Hooks` `Spring Security` `JWT` `MySQL` `Docker`
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ARAVIND23005370)
-
-**What it does:** A platform where users submit policy requests and a rule engine automatically approves or rejects them with confidence scores — removing the need for manual review.
-
-**How I built it:**
-- React.js dashboard with 5+ reusable components and real-time decision visualization
-- Priority-based rule engine with 10+ configurable business rules → **60% reduction** in manual review effort
-- Domain-agnostic microservices with 8+ REST endpoints, clean separation of decision logic and data layers (UML + class diagrams)
-- JWT-secured all APIs + full audit trail with confidence scoring
-- Containerized with **Docker** for consistent dev → production deployments
-
----
-
 ###  Document Intelligence & Decision Automation System
 
 **Stack:** `Java` `Spring Boot` `REST APIs` `MySQL` `OCR` `Maven` `JUnit`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ARAVIND23005370)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ARAVIND23005370/End-to-End-Document-Workflow-Automation)
 
 **What it does:** A backend system that ingests documents, extracts structured data via OCR, and automatically routes decisions — zero manual reading required.
 
@@ -98,7 +79,7 @@ public class Aravind {
 
 **Stack:** `Python` `NLP` `Streamlit`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ARAVIND23005370)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ARAVIND23005370/AI-Resume-Analyzer)
 
 **What it does:** Parses resumes with NLP, extracts skills + keywords, and scores candidate-job compatibility.
 
@@ -225,10 +206,7 @@ public class Aravind {
 ---
 
 ##  Let's Connect
-
-If you're a recruiter, developer, or someone building something interesting — I'm always open to a conversation.
-
-> *"I write code that I'd be comfortable maintaining six months later."*
+> *If you're a recruiter, developer, or someone building something interesting — I'm always open to a conversation.*
 
 <div align="center">
 
