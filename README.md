@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./header.svg" width="100%" alt="Aravind R - Full Stack Developer"/>
 
-<a href="https://aravindr-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logoColor=white" /></a>
+<a href="https://aravind-r-portfolio.vercel.app//"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aravind-r-16b1b4313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ARAVIND23005370"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Aravind_R4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
