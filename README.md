@@ -189,14 +189,21 @@ Worked on full-stack development using Java, Spring Boot, React.js and MySQL.
 - Collaborated through Agile development workflows.
 
 ---
+###  GitHub Stats
+
+![Contribution Snake](https://raw.githubusercontent.com/G-KUMAR05/G-KUMAR05/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+
+*"Build. Explore. Repeat." 🌌*
+
+
 
 ##  GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ARAVIND23005370&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVIND23005370&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
@@ -204,13 +211,7 @@ Worked on full-stack development using Java, Spring Boot, React.js and MySQL.
 
 </div>
 
-### Contribution Activity
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARAVIND23005370&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
 
 ---
 
@@ -270,3 +271,4 @@ I'm interested in connecting with developers, engineers, recruiters and people b
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4158D0,100:8A2BE2&height=120&section=footer" width="100%"/>
 
 </div>
+
