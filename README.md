@@ -1,274 +1,118 @@
-# 👋 Hey, I'm Aravind R
+<!--
+  ARAVIND R / CYBER-HUD DEVELOPER SYSTEM v2.0
+  Custom, locally hosted animated SVGs; no JavaScript or GitHub-unsupported HTML/CSS.
+  Place README.md in the repository root and keep /assets together.
+-->
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 650px)" srcset="./assets/hero-mobile.svg" />
+    <img src="./assets/hero-desktop.svg" alt="Aravind R | Java Full-Stack & Agentic AI Engineer — animated Cyber-HUD" width="100%" />
+  </picture>
+</p>
 
-<img src="./header.svg" width="100%" alt="Aravind R - Software Engineer"/>
+<p align="center">
+  <a href="https://aravind-r-portfolio.vercel.app/">PORTFOLIO</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/aravind-r-16b1b4313/">LINKEDIN</a>
+  &nbsp; / &nbsp;
+  <a href="https://leetcode.com/u/Aravind_R4/">LEETCODE</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:aravind.rameshrd@gmail.com">EMAIL</a>
+</p>
 
-### Software Engineer | Java Full Stack Developer | AI Enthusiast
+### `> whoami`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+React.js;Designing+Secure+REST+APIs;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
+I’m **Aravind R**, a final-year **B.Tech Artificial Intelligence & Data Science** student at **Saveetha Engineering College, Chennai** and former **Full Stack Developer Intern at ApproTech**. I build secure, scalable backend systems and full-stack applications with **Java, Spring Boot, React.js, and SQL**, and I’m actively engineering **Agentic AI, LangGraph, and RAG** automation platforms.
 
-<br/>
+```text
+aravind@dev:~$ ./current_focus
 
-<a href="https://aravind-r-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-<a href="https://www.linkedin.com/in/aravind-r-16b1b4313/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Aravind_R4/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:aravindgd45@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ARAVIND23005370&label=PROFILE+VIEWS&color=00D9FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ARAVIND23005370?label=Followers&style=flat-square&color=blue)
-
-</div>
-
----
-
-##  About Me
-
-I'm an **Artificial Intelligence & Data Science undergraduate at Saveetha Engineering College**, passionate about building software that solves real-world problems.
-
-My primary focus is **Java Full Stack Development**, with a strong interest in backend engineering, scalable application architecture, and intelligent systems.
-
-I enjoy working across the development lifecycle — from designing REST APIs and database schemas to implementing secure authentication and building responsive frontend applications.
-
--  Building full-stack applications using Java, Spring Boot and React.
--  Interested in backend architecture, application security and system design.
--  Practicing Data Structures & Algorithms and solving coding challenges.
--  Exploring Artificial Intelligence, Machine Learning and intelligent automation.
--  Focused on becoming a strong software engineer through hands-on development.
-
-###  My Developer Identity
-
-```java
-public class Aravind {
-
-    String name = "Aravind R";
-    String role = "Java Full Stack Developer";
-
-    String[] currentlyLearning = {
-        "System Design",
-        "Advanced Spring Boot",
-        "Cloud & DevOps",
-        "Data Structures & Algorithms"
-    };
-
-    String[] interests = {
-        "Backend Engineering",
-        "Artificial Intelligence",
-        "Scalable Systems",
-        "Problem Solving"
-    };
-
-    String mindset = "Learn. Build. Improve. Repeat.";
-}
+[ BUILDING ]  Multi-tenant SaaS & Agentic AI telecom operations (NetOps AI)
+[ STACK ]     Java • Spring Boot • Spring Security • React.js • Docker • AWS
+[ PRACTICING ] Data Structures & Algorithms (Java) • System Design (HLD / LLD)
+[ APPROACH ]  Learn → Design → Build → Optimize
 ```
 
----
+### `> ls ./shipped-systems`
 
-##  Technology Stack
+<a href="https://github.com/ARAVIND23005370/Multi-Tenant-SaaS-Platform.git"><img src="./assets/project-saas.svg" alt="Multi-Tenant SaaS Workspace Platform — tenant isolation, RBAC, WebSockets and Redis" width="100%" /></a>
 
-<div align="center">
-
-### Languages & Core Development
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=spring,hibernate,react,nodejs" />
-
-### Databases & Messaging
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" />
-
-### Cloud, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,github,linux,maven,postman" />
-
-</div>
-
----
-
-##  Featured Projects
-
-### 01. Multi-Tenant SaaS Workspace Platform
-
-**Java · Spring Boot · Spring Security · React.js · PostgreSQL · Redis · WebSocket · Docker**
-
-A multi-tenant SaaS application designed to allow multiple organizations to manage their workspaces securely within a shared platform.
-
-**Key Engineering Features**
-
-- Strict tenant isolation and tenant-aware authorization.
-- Role-Based Access Control (RBAC).
-- Workspace and subscription management.
-- Redis-backed real-time collaboration.
-- Audit logging and API rate limiting.
-- Secure authentication and authorization.
-
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/ARAVIND23005370)
-
----
-
-### 02. DocFlow – Document Intelligence & Decision Automation
-
-**Java 17 · Spring Boot · REST APIs · MySQL · OCR · Rule Engine**
-
-An intelligent document workflow system that extracts information from documents, evaluates predefined business rules, and automates decision routing.
-
-**Key Engineering Features**
-
-- Document ingestion and OCR-based information extraction.
-- Automated rule-based evaluation.
-- Modular document processing architecture.
-- Workflow-based decision routing.
-- Reusable processing components for different document categories.
-
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/ARAVIND23005370/End-to-End-Document-Workflow-Automation)
-
----
-
-### 03. AI Resume Analyzer
-
-**Python · NLP · Streamlit**
-
-An AI-powered application that analyzes resumes, extracts relevant skills and keywords, and evaluates compatibility with job descriptions.
-
-**Key Features**
-
-- Resume parsing and text extraction.
-- NLP-based skill identification.
-- Keyword matching and compatibility scoring.
-- Automated resume analysis.
-
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/ARAVIND23005370/AI-Resume-Analyzer)
-
----
-
-### 04. Banking Management System
-
-**Java · Spring Boot · Spring Security · JWT · MySQL · React**
-
-A full-stack banking application focused on secure user authentication, account management and backend-driven operations.
-
-**Key Features**
-
-- Secure authentication using Spring Security and JWT.
-- RESTful backend architecture.
-- Database-driven account management.
-- React-based user interface.
-
-[![GitHub](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/ARAVIND23005370)
-
----
-
-##  Experience
-
-### Full Stack Developer Intern — ApproTech
-
-<sub>July 2025</sub>
-
-Worked on full-stack development using Java, Spring Boot, React.js and MySQL.
-
-**Responsibilities & Contributions**
-
-- Developed RESTful APIs using Java and Spring Boot.
-- Built reusable frontend components using React.js and Hooks.
-- Designed relational database schemas.
-- Implemented authentication and authorization using Spring Security and JWT.
-- Performed API testing using Postman.
-- Collaborated through Agile development workflows.
-
----
-###  GitHub Stats
-
-![Contribution Snake](https://raw.githubusercontent.com/G-KUMAR05/G-KUMAR05/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center">
-
-*"Build. Explore. Repeat." 🌌*
-
-
-
-##  GitHub Analytics
-
-<div align="center">
-
-
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=ARAVIND23005370&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-
----
-
-##  Certifications & Achievements
-
-| Certification | Organization |
-|---|---|
-| Oracle SQL Certified Specialist | Oracle |
-| Internet of Things – Elite Grade | NPTEL |
-| PyTorch Ultimate | Coursera |
-| AI Learning Challenge | Microsoft |
-| Software Engineering Virtual Experience | JPMorgan Chase – Forage |
-| Software Engineering Fundamentals | IBM |
-| Gen AI Exchange Hackathon | Google Cloud × Hack2Skill |
-
----
-
-##  Current Focus
-
-- Building production-oriented full-stack applications.
-- Strengthening Java, Spring Boot and backend engineering.
-- Practicing DSA for software engineering interviews.
-- Learning High-Level Design (HLD) and Low-Level Design (LLD).
-- Exploring AI engineering and intelligent automation.
-- Improving cloud deployment and DevOps skills.
-
----
-
-##  Let's Connect
-
-<div align="center">
-
-### Have an interesting project or opportunity?
-
-I'm interested in connecting with developers, engineers, recruiters and people building innovative products.
+**Multi-Tenant SaaS Workspace Platform** — A multi-tenant SaaS application with strict tenant isolation, tenant-aware authorization, RBAC, subscription management, audit logging, API rate limiting, and real-time collaboration using WebSockets and Redis.  
+**Stack:** `Java` `Spring Boot` `Spring Security` `React.js` `PostgreSQL` `Redis` `WebSocket` `Docker`  
+**↗ [VIEW REPOSITORY](https://github.com/ARAVIND23005370/Multi-Tenant-SaaS-Platform.git)**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aravind-r-16b1b4313/">
-<img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://e2edocs.vercel.app/"><img src="./assets/project-doc-intel.svg" alt="DocFlow — End-to-End Document Intelligence & Decision Automation" width="100%" /></a>
 
-<a href="mailto:aravind.rameshrd@gmail.com">
-<img src="https://img.shields.io/badge/Contact_Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://aravind-r-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-*"Code with purpose. Build with passion. Engineer for impact."*
+**DocFlow — End-to-End Document Intelligence & Decision Automation** — A full-stack OCR document processing platform with JWT authentication, RBAC, dynamic `APPROVE / REVIEW / REJECT` rule routing, asynchronous processing, analytics, and PDF/CSV reporting.  
+**Stack:** `Java 17` `Spring Boot` `JWT` `React.js` `MySQL` `OCR` `Docker`  
+**↗ [VIEW REPOSITORY](https://github.com/ARAVIND23005370/End-to-End-Document-Workflow-Automation)**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4158D0,100:8A2BE2&height=120&section=footer" width="100%"/>
+<a href="https://github.com/ARAVIND23005370/netops-ai.git"><img src="./assets/project-netops.svg" alt="NetOps AI — Agentic AI Telecom Network Operations Platform" width="100%" /></a>
 
-</div>
+**NetOps AI — Agentic AI Telecom Network Operations Platform *(In Development)*** — An AI-driven platform for telecom network anomaly detection, alert correlation, evidence-driven root cause analysis, RAG documentation retrieval, and LangGraph agent remediation with human approval.  
+**Stack:** `Python` `FastAPI` `PostgreSQL` `Scikit-learn` `LangGraph` `RAG` `React.js`  
+**↗ [IN DEVELOPMENT](https://github.com/ARAVIND23005370/netops-ai.git)**
 
+<br/>
+
+<a href="https://banking-system-web.vercel.app/login"><img src="./assets/project-resume-ai.svg" alt="AI Resume Analyzer — NLP, TF-IDF and Cosine Similarity" width="100%" /></a>
+
+**AI Resume Analyzer** — An NLP-based resume screening application using TF-IDF vectorization and cosine similarity scoring to evaluate job-description compatibility, validated across 50+ test resumes.  
+**Stack:** `Python` `NLP` `TF-IDF` `Cosine Similarity` `Streamlit`  
+**↗ [VIEW REPOSITORY](https://github.com/ARAVIND23005370/AI-Resume-Analyzer)**
+
+<br/>
+
+
+
+**Banking Management System** — A full-stack banking application built around Spring Security, JWT authentication, account management, deposits, withdrawals, fund transfers, and relational transaction history.  
+**Stack:** `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `React.js`  
+**↗ [VIEW REPOSITORY](https://github.com/ARAVIND23005370/Banking-Management-System.git)**
+
+### `> cat ./toolkit.yml`
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 650px)" srcset="./assets/skills-mobile.svg" />
+    <img src="./assets/skills-desktop.svg" alt="Backend: Java, Spring Boot, FastAPI, JWT. Frontend: React.js, JS. Data & AI: PostgreSQL, MySQL, Redis, LangGraph, RAG. Cloud: Docker, Kubernetes, AWS, Azure." width="100%" />
+  </picture>
+</p>
+
+### `> cat ./experience-and-credentials.log`
+
+* **Full Stack Developer Intern — ApproTech *(Jul 2025)***: Built 5+ Java/Spring Boot REST APIs, implemented Spring Security with JWT, tested 10+ endpoints via Postman in Agile sprints, and optimized MySQL queries (~30% faster response time).
+* **Certifications**: Oracle SQL Certified Specialist · JPMorgan Chase SWE (Forage) · IBM Software Engineering · Microsoft Azure / AI Learning Challenge · NPTEL IoT (Elite) · PyTorch Ultimate.
+* **Hackathons**: Google Gen AI Exchange Hackathon (Google Cloud × Hack2Skill) · Hack Hustle Hackathon.
+
+### `> read ./github-telemetry`
+
+<details>
+  <summary><b>OPEN LIVE GITHUB TELEMETRY</b> — stats, language mix &amp; contributions</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARAVIND23005370&amp;theme=tokyonight" width="48%" alt="GitHub statistics" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARAVIND23005370&amp;theme=tokyonight" width="48%" alt="Languages used in repositories" />
+  </p>
+  <p align="center">
+    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=ARAVIND23005370&amp;theme=dark&amp;year=none&amp;stats=true&amp;width=1400&amp;height=500" width="100%" alt="Isometric GitHub contribution visualization" />
+  </p>
+</details>
+
+### `> ping aravind --connect`
+
+If you’re hiring for software engineering roles, building scalable systems, or exploring Agentic AI, I’d love to connect.
+
+**[GITHUB](https://github.com/ARAVIND23005370)** · **[LINKEDIN](https://www.linkedin.com/in/aravind-r-16b1b4313/)** · **[PORTFOLIO](https://aravind-r-portfolio.vercel.app/)** · **[LEETCODE](https://leetcode.com/u/Aravind_R4/)**
+
+<p align="center">
+  <a href="https://aravind-r-portfolio.vercel.app/">
+    <img src="./assets/footer.svg" alt="Code with purpose. Engineer for impact. — Aravind R" width="100%" />
+  </a>
+</p>
+
+<!-- Built for Aravind R (ARAVIND23005370). -->
