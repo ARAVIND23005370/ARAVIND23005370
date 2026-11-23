@@ -1,0 +1,87 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="movingGridSkills" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#111C33" stroke-width="0.8"/>
+      <circle cx="0" cy="0" r="1.2" fill="#0047FF" opacity="0.55"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="30 30" dur="3.2s" repeatCount="indefinite"/>
+    </pattern>
+    <radialGradient id="sCobalt" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0047FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#050508" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sLime" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#CCFF00" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#050508" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="sClip">
+      <polygon points="24,2 1176,2 1198,24 1198,296 1176,318 24,318 2,296 2,24"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .wire { stroke: #CCFF00; stroke-width: 2.2; stroke-dasharray: 7 7; animation: flow 0.85s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -14; } }
+  </style>
+
+  <polygon points="24,2 1176,2 1198,24 1198,296 1176,318 24,318 2,296 2,24" fill="#050508" stroke="#1E293B" stroke-width="2"/>
+  <g clip-path="url(#sClip)">
+    <circle r="240" fill="url(#sCobalt)">
+      <animate attributeName="cx" values="180;1020;180" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="160;160;160" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="200" fill="url(#sLime)">
+      <animate attributeName="cx" values="1020;180;1020" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="260;60;260" dur="15s" repeatCount="indefinite"/>
+    </circle>
+    <rect width="1200" height="320" fill="url(#movingGridSkills)"/>
+  </g>
+
+  <polyline points="2,54 2,24 24,2 68,2" stroke="#CCFF00" stroke-width="3" fill="none"/>
+  <polyline points="1198,266 1198,296 1176,318 1132,318" stroke="#0047FF" stroke-width="3" fill="none"/>
+
+  <text x="44" y="42" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="#CCFF00" letter-spacing="3">ARCHITECTURE MATRIX // LIVE TECH STACK</text>
+
+  <line x1="294" y1="176" x2="334" y2="176" class="wire"/>
+  <line x1="584" y1="176" x2="624" y2="176" class="wire"/>
+  <line x1="874" y1="176" x2="914" y2="176" class="wire"/>
+
+  <!-- Card 1 -->
+  <rect x="44" y="68" width="250" height="216" rx="10" fill="#070B16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="44" y="68" width="250" height="4" rx="2" fill="#0047FF"/>
+  <text x="64" y="104" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF" letter-spacing="1">BACKEND &amp; API</text>
+  <text x="64" y="136" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Java • Python</text>
+  <text x="64" y="162" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Spring Boot • FastAPI</text>
+  <text x="64" y="188" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Spring Security • JWT</text>
+  <text x="64" y="214" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Hibernate • JPA • REST</text>
+  <text x="64" y="240" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Microservices • JUnit 5</text>
+
+  <!-- Card 2 -->
+  <rect x="334" y="68" width="250" height="216" rx="10" fill="#070B16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="334" y="68" width="250" height="4" rx="2" fill="#CCFF00"/>
+  <text x="354" y="104" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF" letter-spacing="1">FRONTEND UI</text>
+  <text x="354" y="136" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">React.js</text>
+  <text x="354" y="162" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">JavaScript (ES6+)</text>
+  <text x="354" y="188" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">HTML5 • CSS3</text>
+  <text x="354" y="214" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">WebSockets</text>
+  <text x="354" y="240" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Streamlit • Swagger</text>
+
+  <!-- Card 3 -->
+  <rect x="624" y="68" width="250" height="216" rx="10" fill="#070B16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="624" y="68" width="250" height="4" rx="2" fill="#0047FF"/>
+  <text x="644" y="104" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF" letter-spacing="1">DATA &amp; AI / ML</text>
+  <text x="644" y="136" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">PostgreSQL • MySQL</text>
+  <text x="644" y="162" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Oracle SQL • MongoDB</text>
+  <text x="644" y="188" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Redis • LangGraph</text>
+  <text x="644" y="214" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">RAG • NLP • TF-IDF</text>
+  <text x="644" y="240" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Scikit-learn • OCR</text>
+
+  <!-- Card 4 -->
+  <rect x="914" y="68" width="242" height="216" rx="10" fill="#070B16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="914" y="68" width="242" height="4" rx="2" fill="#CCFF00"/>
+  <text x="934" y="104" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF" letter-spacing="1">CLOUD &amp; DEVOPS</text>
+  <text x="934" y="136" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Docker • Kubernetes</text>
+  <text x="934" y="162" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">AWS • Microsoft Azure</text>
+  <text x="934" y="188" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">GitHub Actions CI/CD</text>
+  <text x="934" y="214" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Jenkins • Linux</text>
+  <text x="934" y="240" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#93C5FD">Maven • Gradle • Jira</text>
+</svg>

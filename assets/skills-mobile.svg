@@ -1,0 +1,56 @@
+<svg width="600" height="540" viewBox="0 0 600 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="movingGridSM" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#111C33" stroke-width="0.8"/>
+      <circle cx="0" cy="0" r="1.2" fill="#0047FF" opacity="0.55"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="28 28" dur="3.2s" repeatCount="indefinite"/>
+    </pattern>
+    <clipPath id="sClipM">
+      <polygon points="22,2 578,2 598,22 598,518 578,538 22,538 2,518 2,22"/>
+    </clipPath>
+  </defs>
+
+  <polygon points="22,2 578,2 598,22 598,518 578,538 22,538 2,518 2,22" fill="#050508" stroke="#1E293B" stroke-width="2"/>
+  <g clip-path="url(#sClipM)">
+    <rect width="600" height="540" fill="url(#movingGridSM)"/>
+  </g>
+  <polyline points="2,48 2,22 22,2 64,2" stroke="#CCFF00" stroke-width="3" fill="none"/>
+
+  <text x="28" y="38" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="#CCFF00" letter-spacing="2">ARCHITECTURE MATRIX // TECH STACK</text>
+
+  <rect x="28" y="58" width="262" height="214" rx="10" fill="#070B16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="28" y="58" width="262" height="4" rx="2" fill="#0047FF"/>
+  <text x="44" y="92" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#FFFFFF">BACKEND &amp; API</text>
+  <text x="44" y="122" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Java • Python</text>
+  <text x="44" y="146" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Spring Boot • FastAPI</text>
+  <text x="44" y="170" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Spring Security • JWT</text>
+  <text x="44" y="194" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Hibernate • JPA • REST</text>
+  <text x="44" y="218" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Microservices • JUnit</text>
+
+  <rect x="310" y="58" width="262" height="214" rx="10" fill="#070B16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="310" y="58" width="262" height="4" rx="2" fill="#CCFF00"/>
+  <text x="326" y="92" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#FFFFFF">FRONTEND UI</text>
+  <text x="326" y="122" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">React.js</text>
+  <text x="326" y="146" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">JavaScript (ES6+)</text>
+  <text x="326" y="170" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">HTML5 • CSS3</text>
+  <text x="326" y="194" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">WebSockets</text>
+  <text x="326" y="218" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Streamlit • Swagger</text>
+
+  <rect x="28" y="292" width="262" height="214" rx="10" fill="#070B16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="28" y="292" width="262" height="4" rx="2" fill="#0047FF"/>
+  <text x="44" y="326" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#FFFFFF">DATA &amp; AI / ML</text>
+  <text x="44" y="356" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">PostgreSQL • MySQL</text>
+  <text x="44" y="380" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Oracle SQL • MongoDB</text>
+  <text x="44" y="404" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Redis • LangGraph</text>
+  <text x="44" y="428" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">RAG • NLP • TF-IDF</text>
+  <text x="44" y="452" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Scikit-learn • OCR</text>
+
+  <rect x="310" y="292" width="262" height="214" rx="10" fill="#070B16" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="310" y="292" width="262" height="4" rx="2" fill="#CCFF00"/>
+  <text x="326" y="326" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#FFFFFF">CLOUD &amp; DEVOPS</text>
+  <text x="326" y="356" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Docker • Kubernetes</text>
+  <text x="326" y="380" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">AWS • Azure</text>
+  <text x="326" y="404" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">GitHub Actions CI/CD</text>
+  <text x="326" y="428" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Jenkins • Linux</text>
+  <text x="326" y="452" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12.5" fill="#93C5FD">Maven • Gradle • Jira</text>
+</svg>
